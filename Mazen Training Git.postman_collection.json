@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Google_Page",
+			"name": "Google",
 			"request": {
 				"method": "GET",
 				"header": [],
